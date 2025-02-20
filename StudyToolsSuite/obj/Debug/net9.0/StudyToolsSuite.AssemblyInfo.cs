@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudyToolsSuite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3690a6e1609a801ad5911dd3d50f022003fd2722")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3fb894a94bda843eed651af6a04461f3117a565")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudyToolsSuite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudyToolsSuite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
